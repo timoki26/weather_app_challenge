@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
 import 'config/app_router.dart';
+import 'package:dio/dio.dart';
 
+
+final dio = Dio();
 final appRouter = AppRouter();
 
 class MyApp extends StatelessWidget {

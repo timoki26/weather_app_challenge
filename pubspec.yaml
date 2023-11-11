@@ -36,6 +36,9 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.6
   auto_route: ^7.8.4
+  freezed_annotation: ^2.4.1
+  json_annotation: ^4.8.1
+  dio: ^5.3.3
 
 dev_dependencies:
   flutter_test:
@@ -49,6 +52,8 @@ dev_dependencies:
   flutter_lints: ^3.0.1
   auto_route_generator: ^7.3.2
   build_runner:
+  freezed: ^2.4.5
+  json_serializable: ^6.7.1
 
 targets:
   $default:

@@ -1,4 +1,5 @@
 import 'package:auto_route/auto_route.dart';
+import 'package:flutter/cupertino.dart';
 import 'package:weather_app_challenge/src/home_page/view/home_screen.dart';
 
 import '../src/details_page/view/details_screen.dart';
